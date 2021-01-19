@@ -1,0 +1,14 @@
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\Ejemplo LINQ.exe.config
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\Ejemplo LINQ.exe
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\Ejemplo LINQ.pdb
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\ExcelDataReader.dll
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\ExcelDataReader.pdb
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\ExcelDataReader.xml
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\obj\Debug\Ejemplo LINQ.csprojAssemblyReference.cache
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\obj\Debug\Ejemplo LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\obj\Debug\Ejemplo LINQ.csproj.CopyComplete
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\obj\Debug\Ejemplo LINQ.exe
+C:\Users\Irene\source\repos\Ejemplo LINQ\Ejemplo LINQ\obj\Debug\Ejemplo LINQ.pdb
